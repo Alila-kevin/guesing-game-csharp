@@ -1,0 +1,15 @@
+D:\C#\case66\case66\obj\Debug\net7.0\case66.csproj.AssemblyReference.cache
+D:\C#\case66\case66\obj\Debug\net7.0\case66.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\case66\case66\obj\Debug\net7.0\case66.AssemblyInfoInputs.cache
+D:\C#\case66\case66\obj\Debug\net7.0\case66.AssemblyInfo.cs
+D:\C#\case66\case66\obj\Debug\net7.0\case66.csproj.CoreCompileInputs.cache
+D:\C#\case66\case66\bin\Debug\net7.0\case66.exe
+D:\C#\case66\case66\bin\Debug\net7.0\case66.deps.json
+D:\C#\case66\case66\bin\Debug\net7.0\case66.runtimeconfig.json
+D:\C#\case66\case66\bin\Debug\net7.0\case66.dll
+D:\C#\case66\case66\bin\Debug\net7.0\case66.pdb
+D:\C#\case66\case66\obj\Debug\net7.0\case66.dll
+D:\C#\case66\case66\obj\Debug\net7.0\refint\case66.dll
+D:\C#\case66\case66\obj\Debug\net7.0\case66.pdb
+D:\C#\case66\case66\obj\Debug\net7.0\case66.genruntimeconfig.cache
+D:\C#\case66\case66\obj\Debug\net7.0\ref\case66.dll
