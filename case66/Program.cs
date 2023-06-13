@@ -36,7 +36,9 @@
             {
                 Console.WriteLine("Congratulations! You guessed the number correctly!");
                 Console.Write("email: alilakevin4@gmail.com to get you $10 prize");
+                Console.Write("it is you lucky day");
                 Console.WriteLine("Number of attempts: " + attempts);
+                Console.Write("Play again and more prizes like this");
             }
         }
 
